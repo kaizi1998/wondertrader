@@ -1,0 +1,23 @@
+{
+    "kline": {
+        "code": "CFFEX.IF.HOT",
+        "period": "m5"
+    },
+    "index": [
+        {
+            "name": "DualThrust",
+            "index_type": 0,
+            "lines": [
+                {
+                    "name": "upper_bound",
+                    "line_type": 0
+                },
+                {
+                    "name": "lower_bound",
+                    "line_type": 0
+                }
+            ],
+            "baselines": {}
+        }
+    ]
+}

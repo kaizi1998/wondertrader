@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="config">
+      <UniqueIdentifier>{9840aca3-fc7b-4f93-9b77-d3c3eef32769}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WtBtRunner.cpp">
@@ -26,5 +29,16 @@
     <ClInclude Include="..\Common\mdump.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="configbt.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="logcfgbt.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="storage\csv\CFFEX.IF.HOT_m5.csv">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

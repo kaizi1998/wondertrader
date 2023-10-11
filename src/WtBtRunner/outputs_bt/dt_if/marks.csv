@@ -1,0 +1,9 @@
+bartime,price,icon,tag
+201909040935,3865.4,wt-mark-buy,DT_EnterLong
+201909100935,3959.4,wt-mark-sell,DT_ExitLong
+201909230935,3890.8,wt-mark-sell,DT_EnterShort
+201909231430,3878.6,wt-mark-buy,DT_ExitShort
+201910111125,3883.6,wt-mark-buy,DT_EnterLong
+201910300940,3880.2,wt-mark-sell,DT_ExitLong
+201911051035,3997.6,wt-mark-buy,DT_EnterLong
+201911290945,3848.8,wt-mark-sell,DT_ExitLong

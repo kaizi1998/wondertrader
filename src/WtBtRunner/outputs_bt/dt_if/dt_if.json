@@ -1,0 +1,39 @@
+{
+    "positions": [],
+    "fund": {
+        "total_profit": 0.0,
+        "total_dynprofit": 0.0,
+        "total_fees": 0.0,
+        "tdate": 20191129
+    },
+    "signals": {
+        "CFFEX.IF.1909": {
+            "usertag": "DT_ExitLong",
+            "volume": 0.0,
+            "sigprice": 0.0,
+            "gentime": 20190910093500000
+        },
+        "CFFEX.IF.1910": {
+            "usertag": "switchout",
+            "volume": 0.0,
+            "sigprice": 0.0,
+            "gentime": 20191018093000000
+        },
+        "CFFEX.IF.1911": {
+            "usertag": "switchout",
+            "volume": 0.0,
+            "sigprice": 0.0,
+            "gentime": 20191115093000000
+        },
+        "CFFEX.IF.1912": {
+            "usertag": "DT_ExitLong",
+            "volume": 0.0,
+            "sigprice": 0.0,
+            "gentime": 20191129094500000
+        }
+    },
+    "conditions": {
+        "settime": 201911291500,
+        "items": {}
+    }
+}

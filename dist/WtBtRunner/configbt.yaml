@@ -6,26 +6,26 @@ replayer:
         hot: ../common/hots.json
         session: ../common/sessions.json
     fees: ../common/fees.json
-    cta_stime: 201909010900         # CTA回测demo开始时间，测试的时候去掉前缀cta_
-    cta_etime: 201912011500         # CTA回测demo结束时间，测试的时候去掉前缀cta_
+    stime: 201909010900         # CTA回测demo开始时间，测试的时候去掉前缀cta_
+    etime: 201912011500         # CTA回测demo结束时间，测试的时候去掉前缀cta_
     hft_stime: 202101040900         # HFT回测demo开始时间，测试的时候去掉前缀hft_
     hft_etime: 202101061500         # HFT回测demo结束时间，测试的时候去掉前缀hft_
-    stime: 202101040900             # UFT回测demo开始时间，测试的时候去掉前缀uft_
-    etime: 202101061500             # UFT回测demo结束时间，测试的时候去掉前缀uft_
+    uft_stime: 202101040900             # UFT回测demo开始时间，测试的时候去掉前缀uft_
+    uft_etime: 202101061500             # UFT回测demo结束时间，测试的时候去掉前缀uft_
     mode: csv
     path: ../storage/
-    tick: true                     # 是否开启tick回测，HFT回测时必须开启
+    tick: false                     # 是否开启tick回测，HFT回测时必须开�?
 env:
-    mocker: exec                     # 回测引擎，cta/hft/sel/uft/exec
+    mocker: cta                     # 回测引擎，cta/hft/sel/uft/exec
     slippage: 1
 
 # CTA策略配置，当mocker为cta时会读取该配置项
 cta:
     module: WtCtaStraFact.dll       # 模块名，linux下为xxxx.so
     strategy:                       # 策略信息
-        id: dt_if                   # 策略ID，自定义的
+        id: dt_if                   # 策略ID，自定义�?
         name: DualThrust            # 策略名，要和factory中的匹配
-        params:                     # 策略初始化参数，这个根据策略的需要提供
+        params:                     # 策略初始化参数，这个根据策略的需要提�?
             code: CFFEX.IF.HOT
             count: 50
             days: 30
@@ -38,9 +38,9 @@ cta:
 hft:
     module: WtHftStraFact.dll       # 模块名，linux下为xxxx.so
     strategy:                       # 策略信息
-        id: hft_if                  # 策略ID，自定义的
+        id: hft_if                  # 策略ID，自定义�?
         name: SimpleHft             # 策略名，要和factory中的匹配
-        params:                     # 策略初始化参数，这个根据策略的需要提供
+        params:                     # 策略初始化参数，这个根据策略的需要提�?
             code: CFFEX.IF.HOT
             second: 5
             freq: 10
@@ -51,9 +51,9 @@ hft:
 uft:
     module: WtUftStraFact.dll       # 模块名，linux下为xxxx.so
     strategy:                       # 策略信息
-        id: uft_if                  # 策略ID，自定义的
+        id: uft_if                  # 策略ID，自定义�?
         name: SimpleUft             # 策略名，要和factory中的匹配
-        params:                     # 策略初始化参数，这个根据策略的需要提供
+        params:                     # 策略初始化参数，这个根据策略的需要提�?
             code: CFFEX.IF.HOT
             second: 5
             freq: 10
@@ -66,7 +66,7 @@ exec:
     code: CFFEX.IF.HOT              # 驱动合约代码
     period: m5                      # 驱动周期
     volunit: 50                     # 周期单位数量
-    volmode: 0                      # 数量模式，0-每个周期设定的目标头寸，正负反复，-1-一直卖，即目标头寸一直减少，1-一直卖
+    volmode: 0                      # 数量模式�?0-每个周期设定的目标头寸，正负反复�?-1-一直卖，即目标头寸一直减少，1-一直卖
     executer:
       name: WtMinImpactExeUnit      # 执行单元名称
       id: exec
