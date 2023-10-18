@@ -1,0 +1,279 @@
+[2023.10.18 14:35:52 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 14:35:52 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 14:35:52 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 14:35:52 - info ] Running mode: Production
+[2023.10.18 14:35:52 - info ] 36 fee templates loaded
+[2023.10.18 14:35:52 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 14:35:52 - info ] Engine task poolsize is 0
+[2023.10.18 14:35:52 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 14:35:52 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 14:35:52 - info ] Data manager initialized
+[2023.10.18 14:35:53 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 14:35:53 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 14:35:53 - info ] 1 parsers loaded
+[2023.10.18 14:35:53 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 14:35:53 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 14:35:53 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 14:35:53 - info ] 1 traders loaded
+[2023.10.18 14:35:53 - info ] Reading executer config from executers.yaml...
+[2023.10.18 14:35:53 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 14:35:53 - info ] 0 executers loaded
+[2023.10.18 14:35:53 - error] Directory E:/workplace/wondertrader/src/WtRunner/cta/ of CTA strategy factory not exists
+[2023.10.18 14:43:08 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 14:43:09 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 14:43:09 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 14:43:09 - info ] Running mode: Production
+[2023.10.18 14:43:09 - info ] 36 fee templates loaded
+[2023.10.18 14:43:09 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 14:43:09 - info ] Engine task poolsize is 0
+[2023.10.18 14:43:09 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 14:43:09 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 14:43:09 - info ] Data manager initialized
+[2023.10.18 14:43:09 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 14:43:09 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 14:43:09 - info ] 1 parsers loaded
+[2023.10.18 14:43:09 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 14:43:09 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 14:43:09 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 14:43:09 - info ] 1 traders loaded
+[2023.10.18 14:43:09 - info ] Reading executer config from executers.yaml...
+[2023.10.18 14:43:09 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 14:43:09 - info ] 0 executers loaded
+[2023.10.18 14:43:09 - error] Directory E:/workplace/wondertrader/src/WtRunner/cta/ of CTA strategy factory not exists
+[2023.10.18 14:56:34 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 14:56:34 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 14:56:34 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 14:56:34 - info ] Running mode: Production
+[2023.10.18 14:56:34 - info ] 36 fee templates loaded
+[2023.10.18 14:56:34 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 14:56:34 - info ] Engine task poolsize is 0
+[2023.10.18 14:56:34 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 14:56:34 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 14:56:34 - info ] Data manager initialized
+[2023.10.18 14:56:34 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 14:56:34 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 14:56:34 - info ] 1 parsers loaded
+[2023.10.18 14:56:34 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 14:56:34 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 14:56:34 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 14:56:34 - info ] 1 traders loaded
+[2023.10.18 14:56:34 - info ] Reading executer config from executers.yaml...
+[2023.10.18 14:56:34 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 14:56:34 - info ] 0 executers loaded
+[2023.10.18 14:56:34 - error] Directory E:/workplace/wondertrader/src/WtRunner/cta/ of CTA strategy factory not exists
+[2023.10.18 15:42:20 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 15:42:20 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 15:42:20 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 15:42:20 - info ] Running mode: Production
+[2023.10.18 15:42:20 - info ] 36 fee templates loaded
+[2023.10.18 15:42:20 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 15:42:20 - info ] Engine task poolsize is 0
+[2023.10.18 15:42:20 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 15:42:20 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 15:42:20 - info ] Data manager initialized
+[2023.10.18 15:42:20 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 15:42:20 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 15:42:20 - info ] 1 parsers loaded
+[2023.10.18 15:42:20 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 15:42:20 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 15:42:20 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 15:42:20 - info ] 1 traders loaded
+[2023.10.18 15:42:20 - info ] Reading executer config from executers.yaml...
+[2023.10.18 15:42:20 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 15:42:20 - info ] 0 executers loaded
+[2023.10.18 15:43:08 - error] Directory E:/workplace/wondertrader/src/WtRunner/cta/ of CTA strategy factory not exists
+[2023.10.18 16:01:57 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 16:01:57 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 16:01:57 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 16:01:57 - info ] Running mode: Production
+[2023.10.18 16:01:57 - info ] 36 fee templates loaded
+[2023.10.18 16:01:57 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 16:01:57 - info ] Engine task poolsize is 0
+[2023.10.18 16:01:57 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 16:01:57 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 16:01:57 - info ] Data manager initialized
+[2023.10.18 16:01:57 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 16:01:57 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 16:01:57 - info ] 1 parsers loaded
+[2023.10.18 16:01:57 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 16:01:57 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 16:01:57 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 16:01:57 - info ] 1 traders loaded
+[2023.10.18 16:01:57 - info ] Reading executer config from executers.yaml...
+[2023.10.18 16:01:57 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 16:01:57 - info ] 0 executers loaded
+[2023.10.18 16:07:10 - error] Directory E:/workplace/wondertrader/src/WtRunner/cta/ of CTA strategy factory not exists
+[2023.10.18 16:29:07 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 16:29:07 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 16:29:07 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 16:29:07 - info ] Running mode: Production
+[2023.10.18 16:29:07 - info ] 36 fee templates loaded
+[2023.10.18 16:29:07 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 16:29:07 - info ] Engine task poolsize is 0
+[2023.10.18 16:29:07 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 16:29:07 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 16:29:07 - info ] Data manager initialized
+[2023.10.18 16:29:08 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 16:29:08 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 16:29:08 - info ] 1 parsers loaded
+[2023.10.18 16:29:08 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 16:29:08 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 16:29:08 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 16:29:08 - info ] 1 traders loaded
+[2023.10.18 16:29:08 - info ] Reading executer config from executers.yaml...
+[2023.10.18 16:29:08 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 16:29:08 - info ] 0 executers loaded
+[2023.10.18 16:29:16 - error] Directory E:/workplace/wondertrader/src/WtRunner/cta/ of CTA strategy factory not exists
+[2023.10.18 16:29:23 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 16:29:24 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 16:29:24 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 16:29:24 - info ] Running mode: Production
+[2023.10.18 16:29:24 - info ] 36 fee templates loaded
+[2023.10.18 16:29:24 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 16:29:24 - info ] Engine task poolsize is 0
+[2023.10.18 16:29:24 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 16:29:24 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 16:29:24 - info ] Data manager initialized
+[2023.10.18 16:29:24 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 16:29:24 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 16:29:24 - info ] 1 parsers loaded
+[2023.10.18 16:29:24 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 16:29:24 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 16:29:24 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 16:29:24 - info ] 1 traders loaded
+[2023.10.18 16:29:24 - info ] Reading executer config from executers.yaml...
+[2023.10.18 16:29:24 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 16:29:24 - info ] 0 executers loaded
+[2023.10.18 16:35:29 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 16:35:29 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 16:35:29 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 16:35:29 - info ] Running mode: Production
+[2023.10.18 16:35:29 - info ] 36 fee templates loaded
+[2023.10.18 16:35:29 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 16:35:29 - info ] Engine task poolsize is 0
+[2023.10.18 16:35:29 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 16:35:29 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 16:35:29 - info ] Data manager initialized
+[2023.10.18 16:35:30 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 16:35:30 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 16:35:30 - info ] 1 parsers loaded
+[2023.10.18 16:35:30 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 16:35:30 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 16:35:30 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 16:35:30 - info ] 1 traders loaded
+[2023.10.18 16:35:30 - info ] Reading executer config from executers.yaml...
+[2023.10.18 16:35:30 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 16:35:30 - info ] 0 executers loaded
+[2023.10.18 16:36:08 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 16:36:08 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 16:36:08 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 16:36:08 - info ] Running mode: Production
+[2023.10.18 16:36:08 - info ] 36 fee templates loaded
+[2023.10.18 16:36:08 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 16:36:08 - info ] Engine task poolsize is 0
+[2023.10.18 16:36:08 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 16:36:08 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 16:36:08 - info ] Data manager initialized
+[2023.10.18 16:36:08 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 16:36:08 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 16:36:08 - info ] 1 parsers loaded
+[2023.10.18 16:36:08 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 16:36:08 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 16:36:08 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 16:36:08 - info ] 1 traders loaded
+[2023.10.18 16:36:08 - info ] Reading executer config from executers.yaml...
+[2023.10.18 16:36:08 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 16:36:08 - info ] 0 executers loaded
+[2023.10.18 16:37:01 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 16:37:01 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 16:37:01 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 16:37:01 - info ] Running mode: Production
+[2023.10.18 16:37:01 - info ] 36 fee templates loaded
+[2023.10.18 16:37:01 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 16:37:01 - info ] Engine task poolsize is 0
+[2023.10.18 16:37:01 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 16:37:01 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 16:37:01 - info ] Data manager initialized
+[2023.10.18 16:37:01 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 16:37:01 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 16:37:01 - info ] 1 parsers loaded
+[2023.10.18 16:37:01 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 16:37:01 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 16:37:01 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 16:37:01 - info ] 1 traders loaded
+[2023.10.18 16:37:01 - info ] Reading executer config from executers.yaml...
+[2023.10.18 16:37:01 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 16:37:01 - info ] 0 executers loaded
+[2023.10.18 17:27:07 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 17:27:07 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 17:27:08 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 17:27:08 - info ] Running mode: Production
+[2023.10.18 17:27:08 - info ] 36 fee templates loaded
+[2023.10.18 17:27:08 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 17:27:08 - info ] Engine task poolsize is 0
+[2023.10.18 17:27:08 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 17:27:08 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 17:27:08 - info ] Data manager initialized
+[2023.10.18 17:27:08 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 17:27:08 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 17:27:08 - info ] 1 parsers loaded
+[2023.10.18 17:27:08 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 17:27:08 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 17:27:08 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 17:27:08 - info ] 1 traders loaded
+[2023.10.18 17:27:08 - info ] Reading executer config from executers.yaml...
+[2023.10.18 17:27:08 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 17:27:08 - info ] 0 executers loaded
+[2023.10.18 17:27:14 - info ] CTA strategy factory[WtCtaStraFact] loaded
+[2023.10.18 17:27:14 - info ] 1 CTA strategy factories in directory[E:/workplace/wondertrader/src/WtRunner/cta/] loaded
+[2023.10.18 17:29:33 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 17:29:34 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 17:29:34 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 17:29:34 - info ] Running mode: Production
+[2023.10.18 17:29:34 - info ] 36 fee templates loaded
+[2023.10.18 17:29:34 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 17:29:34 - info ] Engine task poolsize is 0
+[2023.10.18 17:29:34 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 17:29:34 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 17:29:34 - info ] Data manager initialized
+[2023.10.18 17:29:34 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 17:29:34 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 17:29:34 - info ] 1 parsers loaded
+[2023.10.18 17:29:34 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 17:29:34 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 17:29:34 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 17:29:34 - info ] 1 traders loaded
+[2023.10.18 17:29:34 - info ] Reading executer config from executers.yaml...
+[2023.10.18 17:29:34 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 17:29:34 - info ] 0 executers loaded
+[2023.10.18 17:29:36 - info ] CTA strategy factory[WtCtaStraFact] loaded
+[2023.10.18 17:29:36 - info ] 1 CTA strategy factories in directory[E:/workplace/wondertrader/src/WtRunner/cta/] loaded
+[2023.10.18 17:31:52 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.18 17:31:52 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.10.18 17:31:52 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.18 17:31:52 - info ] Running mode: Production
+[2023.10.18 17:31:52 - info ] 36 fee templates loaded
+[2023.10.18 17:31:52 - error] Riskmon module E:/workplace/wondertrader/src/WtRunner/WtRiskMonFact.dll loading failed
+[2023.10.18 17:31:52 - info ] Engine task poolsize is 0
+[2023.10.18 17:31:52 - info ] Resampled bars will be aligned by section:  not
+[2023.10.18 17:31:52 - error] Loading data reader module E:/workplace/wondertrader/src/WtRunner/WtDataStorage.dll failed
+[2023.10.18 17:31:52 - info ] Data manager initialized
+[2023.10.18 17:31:52 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.18 17:31:52 - error] [parser1] Parser module E:/workplace/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.18 17:31:52 - info ] 1 parsers loaded
+[2023.10.18 17:31:52 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.18 17:31:52 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.18 17:31:52 - error] [simnow] Loading trading module E:/workplace/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.18 17:31:52 - info ] 1 traders loaded
+[2023.10.18 17:31:52 - info ] Reading executer config from executers.yaml...
+[2023.10.18 17:31:52 - error] Directory E:/workplace/wondertrader/src/WtRunner/executer/ of executer factory not exists
+[2023.10.18 17:31:52 - info ] 0 executers loaded
+[2023.10.18 17:31:53 - info ] CTA strategy factory[WtCtaStraFact] loaded
+[2023.10.18 17:31:53 - info ] 1 CTA strategy factories in directory[E:/workplace/wondertrader/src/WtRunner/cta/] loaded
+[2023.10.18 17:31:54 - info ] 1 parsers started
+[2023.10.18 17:31:54 - info ] 1 trading channels started
+[2023.10.18 17:31:54 - info ] CtaTicker will drive engine with session TRADING
+[2023.10.18 17:31:54 - info ] Trading date confirmed: 20231018
+[2023.10.18 17:31:54 - info ] Market data subscribed: CFFEX.rb.HOT
+[2023.10.18 17:31:54 - debug] Main KBars confirmed: CFFEX.rb.HOT#m1
+[2023.10.18 17:31:54 - info ] Trading day 20231018 begun

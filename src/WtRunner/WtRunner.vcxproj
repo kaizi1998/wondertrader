@@ -193,7 +193,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="actpolicy.yaml" />
+    <None Include="config.yaml" />
     <None Include="copyfiles.bat" />
+    <None Include="executers.yaml" />
+    <None Include="filters.yaml" />
+    <None Include="logcfg.yaml" />
+    <None Include="tdparsers.yaml" />
+    <None Include="tdtraders.yaml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

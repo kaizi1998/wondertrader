@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="config">
+      <UniqueIdentifier>{4b435da4-a408-43eb-810a-f41db88925d5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="WtRunner.h">
@@ -36,6 +39,27 @@
   <ItemGroup>
     <None Include="copyfiles.bat">
       <Filter>源文件</Filter>
+    </None>
+    <None Include="actpolicy.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="config.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="executers.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="filters.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="logcfg.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="tdparsers.yaml">
+      <Filter>config</Filter>
+    </None>
+    <None Include="tdtraders.yaml">
+      <Filter>config</Filter>
     </None>
   </ItemGroup>
 </Project>
